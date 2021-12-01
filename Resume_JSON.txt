@@ -1,0 +1,25 @@
+var resume={
+    "Basics": {
+      "name": "Dineshraj.P",
+      "email": "dineshrajmech01@gmail.com",
+      "phone": "+916374913245",
+      "degree": "B.E-Mech",
+      "address": "No.12G,Rayan kuttai street",
+        "postalCode": "631502",
+        "city": "Kanchipuram",
+        "State": "TamilNadu"
+      },
+      
+    
+    
+    "Education": 
+      {
+        "School": "Bharadhisan Matriculation Higher Secondary School",
+        "College": "Sri Venkateswara college of Engineering",
+        "gpa": "7.613",
+        "courses": "Mechanical Enginnering"
+      }
+    
+    
+  }
+  console.log(resume.Basics);
